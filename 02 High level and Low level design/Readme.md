@@ -1,1 +1,2 @@
-![Project Demo](./Slide Images/1.png)]
+![Project Demo](./Slide-Image/1.png)
+
